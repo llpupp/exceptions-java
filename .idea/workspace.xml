@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="378d5ee2-1545-4f37-ada7-bf9501adf096" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exceptions-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/romances-blake-crouch.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/exceptions/CheckedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/exceptions/ExceptionCustomizada_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/exceptions/ExceptionCustomizada_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/exceptions/UncheckedException.java" afterDir="false" />
+    <list default="true" id="378d5ee2-1545-4f37-ada7-bf9501adf096" name="Changes" comment="Inclusão Readme">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/exceptions/DivisaoNaoExataExeption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +82,14 @@
       <option name="presentableId" value="Default" />
       <updated>1668696493964</updated>
     </task>
+    <task id="LOCAL-00001" summary="Inclusão Readme">
+      <created>1668711630254</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668711630254</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,5 +102,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inclusão Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inclusão Readme" />
   </component>
 </project>
